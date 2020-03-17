@@ -1,0 +1,22 @@
+body {
+    background-color: #f9f7f7;
+    font-family: 'WYekan', sans-serif;
+}
+
+p {
+    font-size: 1.3rem;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: #f9f7f7;
+}
+
+@font-face {
+    font-family: WYekan;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/WYekan.woff');
+    src: url('fonts/WYekan.eot') format('embedded-opentype'), url('fonts/WYekan.ttf') format('truetype');
+}
